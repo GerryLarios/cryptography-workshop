@@ -22,9 +22,14 @@ cd src-cloud && ./install.sh
 ```
 
 ## Content
-[Secret-Key Encryption](./section_1/README.md)
-[One-Way Hash Function](./section_2/README.md)
-[Public Key Cryptography](./section_3/README.md)
-[Public Key Infrastructure](./section_4/README.md)
-[Transport Layer Security](./section_5/README.md)
-[Bitcoin and Blockchain](./section_6/README.md)
+[1. Secret-Key Encryption](./section_1/README.md)
+
+[2. One-Way Hash Function](./section_2/README.md)
+
+[3. Public Key Cryptography](./section_3/README.md)
+
+[4. Public Key Infrastructure](./section_4/README.md)
+
+[5. Transport Layer Security](./section_5/README.md)
+
+[6. Bitcoin and Blockchain](./section_6/README.md)
